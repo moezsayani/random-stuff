@@ -1,3 +1,3 @@
 # random-stuff
-*test
-  *tes2
+* test
+  * test2
